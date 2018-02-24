@@ -1,3 +1,3 @@
-# finimata.github.io
+# FiniMata
 Website
-[Open:](https://finimata.github.io "Homepage")
+[finimata.github.io](https://finimata.github.io "Homepage")

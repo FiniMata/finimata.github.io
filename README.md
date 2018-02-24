@@ -1,2 +1,0 @@
-# finimata.github.io
-Website
